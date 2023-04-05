@@ -1,0 +1,15 @@
+/Users/beidysy/Projects/BasicCalculator/BasicCalculator/bin/Debug/net7.0/BasicCalculator
+/Users/beidysy/Projects/BasicCalculator/BasicCalculator/bin/Debug/net7.0/BasicCalculator.deps.json
+/Users/beidysy/Projects/BasicCalculator/BasicCalculator/bin/Debug/net7.0/BasicCalculator.runtimeconfig.json
+/Users/beidysy/Projects/BasicCalculator/BasicCalculator/bin/Debug/net7.0/BasicCalculator.dll
+/Users/beidysy/Projects/BasicCalculator/BasicCalculator/bin/Debug/net7.0/BasicCalculator.pdb
+/Users/beidysy/Projects/BasicCalculator/BasicCalculator/obj/Debug/net7.0/BasicCalculator.csproj.AssemblyReference.cache
+/Users/beidysy/Projects/BasicCalculator/BasicCalculator/obj/Debug/net7.0/BasicCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beidysy/Projects/BasicCalculator/BasicCalculator/obj/Debug/net7.0/BasicCalculator.AssemblyInfoInputs.cache
+/Users/beidysy/Projects/BasicCalculator/BasicCalculator/obj/Debug/net7.0/BasicCalculator.AssemblyInfo.cs
+/Users/beidysy/Projects/BasicCalculator/BasicCalculator/obj/Debug/net7.0/BasicCalculator.csproj.CoreCompileInputs.cache
+/Users/beidysy/Projects/BasicCalculator/BasicCalculator/obj/Debug/net7.0/BasicCalculator.dll
+/Users/beidysy/Projects/BasicCalculator/BasicCalculator/obj/Debug/net7.0/refint/BasicCalculator.dll
+/Users/beidysy/Projects/BasicCalculator/BasicCalculator/obj/Debug/net7.0/BasicCalculator.pdb
+/Users/beidysy/Projects/BasicCalculator/BasicCalculator/obj/Debug/net7.0/BasicCalculator.genruntimeconfig.cache
+/Users/beidysy/Projects/BasicCalculator/BasicCalculator/obj/Debug/net7.0/ref/BasicCalculator.dll
